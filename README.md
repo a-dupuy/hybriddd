@@ -1,4 +1,4 @@
-# HybridDD
+# HybridDD (en pause, car un outil pour automatiser une partie de la méthode est en dev à côté, trop d'allers-retours probables en copier-coller sinon) (ceci n'est que le toy project)
 
 Projet pédagogique en **TDD strict 100% hybride** (humain + IA).  
 **Code 100% généré par l'IA** (Alex, Grok), **zéro ligne écrite par l'humain** (Sillynius).  
